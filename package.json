@@ -1,8 +1,8 @@
 {
-    "name": "Screen Info",
-    "author": "Florian Wesch <fw@info-beamer.com>",
+    "name": "Screen Info BSK",
+    "author": "Florian Wesch / Florian Bergmann",
     "desc": "Shows information about the current device on the screen. This makes it easy to see which screen is which.",
-    "repository": "https://github.com/info-beamer/package-screen-info",
+    "repository": "https://github.com/laserfreak1111/package-screen-info-bsk",
     "platforms": ["pi/epoch-1", "pi/epoch-2"],
     "version": "2021-02-25"
 }
